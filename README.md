@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.0216 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.021 - MÁY HỌC</b></h1>
 
 ## Thông Tin Liên Hệ
 
@@ -16,7 +16,7 @@
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Mã môn học**: CS114
-* **Lớp học**: CS114.0216
+* **Lớp học**: CS114.021
 * **Năm học**: 2023-2024
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
